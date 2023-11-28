@@ -133,7 +133,7 @@ int main()
 			break;	
 			
 			case 4:
-			printf("Obrigada por utilizar o sistema!\2");
+			printf("Obrigada por utilizar o sistema!\n");
 			return 0;
 			break;
 			
